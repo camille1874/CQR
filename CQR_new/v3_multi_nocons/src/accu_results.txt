@@ -1,0 +1,3 @@
+overall accuracy: 0.9493410482163505
+parameter accuracy: 0.9787273446220225
+action accuracy: 0.9653480957219439
